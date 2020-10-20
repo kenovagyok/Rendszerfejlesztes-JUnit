@@ -7,3 +7,4 @@ Minden funkcióhoz legalább 3 teszt tartozzon!
 Annyi funkcióra van szükség, ahány tagú a csapat!
 
 Kecskeméti Noémi
+Réthy Zoltán Ferenc
